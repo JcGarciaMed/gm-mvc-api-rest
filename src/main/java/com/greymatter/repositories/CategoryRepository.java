@@ -1,6 +1,6 @@
-package guru.springfamework.repositories;
+package com.greymatter.repositories;
 
-import guru.springfamework.domain.Category;
+import com.greymatter.domain.Category;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 /**

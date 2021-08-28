@@ -1,4 +1,4 @@
-package guru.springfamework.domain;
+package com.greymatter.domain;
 
 import lombok.Data;
 
